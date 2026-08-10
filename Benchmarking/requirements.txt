@@ -1,0 +1,17 @@
+torch
+torchvision
+transformers
+pillow
+pdf2image
+pypdf
+jiwer
+scikit-learn
+rouge-score
+scipy
+tqdm
+psutil
+sentencepiece
+tiktoken
+requests
+verovio
+accelerate
